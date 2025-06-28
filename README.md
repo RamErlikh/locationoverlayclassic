@@ -11,7 +11,7 @@
 - **Use case:** When you need maximum compatibility across different streaming platforms like OBS and PRISM Live Studio
 
 ### 📍 GPS + IP Version (Most Accurate) - Best for IRL Pro
-**URL:** `https://ramerlikh.github.io/locationoverlay/` or `https://mrchallah.github.io/`
+**URL:** `https://mrchallah.github.io/`
 - **Best for:** IRL Pro and GPS-capable environments
 - **Accuracy:** High (GPS + IP fallback)
 - **Compatibility:** Limited to GPS-friendly environments
@@ -58,7 +58,7 @@
 **Black & White Monochrome:** `https://mrchallah.github.io/bwiploc`
 
 ### For IRL Pro / GPS-Capable Apps
-**Japanese Regional Icons:** `https://ramerlikh.github.io/locationoverlay/` or `https://mrchallah.github.io/`
+**Japanese Regional Icons:** `https://mrchallah.github.io/`
 **Font Awesome Icons:** `https://mrchallah.github.io/classic`
 **Black & White Monochrome:** `https://mrchallah.github.io/bw`
 
@@ -217,7 +217,7 @@ Both icon systems detect and display icons for:
    - **Japanese Regional + IP**: `https://mrchallah.github.io/iploc`
    - **Font Awesome + IP**: `https://mrchallah.github.io/classiciploc`
    - **Black & White + IP**: `https://mrchallah.github.io/bwiploc`
-   - **Japanese Regional + GPS**: `https://ramerlikh.github.io/locationoverlay/` or `https://mrchallah.github.io/`
+   - **Japanese Regional + GPS**: `https://mrchallah.github.io/`
    - **Font Awesome + GPS**: `https://mrchallah.github.io/classic`
    - **Black & White + GPS**: `https://mrchallah.github.io/bw`
 3. Set width: 800, height: 600 (or as needed)
@@ -233,7 +233,7 @@ Both icon systems detect and display icons for:
 
 ### Method 3: IRL Pro Integration
 1. Choose GPS version:
-   - **Japanese Regional**: `https://ramerlikh.github.io/locationoverlay/` or `https://mrchallah.github.io/`
+   - **Japanese Regional**: `https://mrchallah.github.io/`
    - **Font Awesome**: `https://mrchallah.github.io/classic`
    - **Black & White**: `https://mrchallah.github.io/bw`
 2. Allow location permissions when prompted
@@ -389,7 +389,7 @@ Feel free to submit issues, feature requests, or pull requests to improve the ov
 - **Maximum Compatibility (Japanese)**: `https://mrchallah.github.io/iploc`
 - **Maximum Compatibility (Font Awesome)**: `https://mrchallah.github.io/classiciploc`
 - **Maximum Compatibility (Black & White)**: `https://mrchallah.github.io/bwiploc`
-- **Maximum Accuracy (Japanese)**: `https://ramerlikh.github.io/locationoverlay/` or `https://mrchallah.github.io/`
+- **Maximum Accuracy (Japanese)**: `https://mrchallah.github.io/`
 - **Maximum Accuracy (Font Awesome)**: `https://mrchallah.github.io/classic`
 - **Maximum Accuracy (Black & White)**: `https://mrchallah.github.io/bw`
 - **PRISM Live**: Use IP versions
